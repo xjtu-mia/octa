@@ -3,7 +3,7 @@ The OCTA-AV database includes two datasets. Specifically, The first dataset was 
 
 How to use the database:
 The data included in this database can be used, free of charge, for research and educational purposes. Copying, redistribution, and any unauthorized commercial use is prohibited. The use of this database is restricted to those individuals or organizations that obtained the database directly from this website. Any researcher reporting results which use this database must acknowledge the OCTA-AV database. We request you to do so by citing this publication:
-Xiayu Xu, Peiwei Yang, Xiulan Zhang, Wei Wang, Jiong Zhang, Chaoyu Cao, Feng Xu, Jianqin Lei, “Fully automated arteriole-venule segmentation and differentiation using only optical coherence tomography angiography,” ,
+Xiayu Xu, Peiwei Yang, Xiulan Zhang, Wei Wang, Jiong Zhang, Chaoyu Cao, Feng Xu, Jianqin Lei, “Fully automated arteriole-venule segmentation and differentiation using only optical coherence tomography angiography,” 
 
 How to access the database:
 The images and codes are available at https://github.com/xjtu-ophthalmology/octa. 
