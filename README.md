@@ -29,7 +29,7 @@ python terminal.py --train_cnn=1 --test_cnn=1 --build_graph=0 --train_gat=0 --te
 ## Citation
 
 ```bibtex
-@misc{cao2021swinunet,
+@misc{xu2022avcasnet,
       title={AV-casNet: Fully Automatic Arteriole-Venule Segmentation and Differentiation in OCT Angiography}, 
       author={Xiayu Xu, Peiwei Yang, Hualin Wang, Zhanfeng Xiao, Gang Xing, Xiulan Zhang, Wei Wang, Feng Xu, Jiong Zhang, Jianqin Lei},
       year={2022},
