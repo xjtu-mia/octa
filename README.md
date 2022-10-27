@@ -2,7 +2,7 @@
 AV-casNet: Fully Automatic Arteriole-Venule Segmentation and Differentiation in OCT Angiography
 
 ## 1. Prepare OCTA datasets 
-You can download the datasets from the [Baidu Netdisk](https://pan.baidu.com/s/1U1wVj07lKPwZAVkBY0s5Mw) (access code: wveo) and decompress it to the root directory. Please go to ["./datasets/README.md"](datasets/README.md) for details. 
+You can download the datasets from the [Baidu Netdisk](https://pan.baidu.com/s/1sQboL5_6vvk9hAuANQpbiA?pwd=n4i4) (access code: n4i4) and decompress it to the root directory. Please go to ["./datasets/README.md"](datasets/README.md) for details. 
 
 ## 2. Environment
 
@@ -29,7 +29,7 @@ python terminal.py --train_cnn=1 --test_cnn=1 --build_graph=0 --train_gat=0 --te
 ## Citation
 
 ```bibtex
-@misc{xu2022avcasnet,
+@misc{cao2021swinunet,
       title={AV-casNet: Fully Automatic Arteriole-Venule Segmentation and Differentiation in OCT Angiography}, 
       author={Xiayu Xu, Peiwei Yang, Hualin Wang, Zhanfeng Xiao, Gang Xing, Xiulan Zhang, Wei Wang, Feng Xu, Jiong Zhang, Jianqin Lei},
       year={2022},
